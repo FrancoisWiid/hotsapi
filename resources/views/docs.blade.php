@@ -172,7 +172,7 @@
 </code></pre>
 
     <h3><code>GET /replays/{id}</code></h3>
-    <p>Get replay data by database id. Returns same values as <code>GET /replays</code> with an additionas <code>players</code> array:</p>
+    <p>Get replay data by database id. Returns same values as <code>GET /replays</code> with an additional <code>players</code> array:</p>
     <table class="table table-sm table-striped">
         <tbody>
         <tr>
